@@ -15,7 +15,7 @@ print (val)
 
 #print the key 
 for x  in dict_a:
-    print (x)
+    print  (x)
     
 
 #print the key-value  pairs
